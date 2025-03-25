@@ -14,6 +14,13 @@
 # รูป LED
 ![image](https://github.com/user-attachments/assets/789fe435-42d8-4c0e-859d-8d6ebb946d2f)
 
+# ผลของ Timer จาก Oscilloscope
+![image](https://github.com/user-attachments/assets/f807b915-9744-4f3c-83bb-c29c3234c8d9)
+
+# วิธีการคำนวณ Prescaler Timer
+![image](https://github.com/user-attachments/assets/85dd35a0-d5be-47c2-865f-3798559e9e3a)
+
+
 
 
 
