@@ -8,3 +8,8 @@
 # Requirement
 ![image](https://github.com/user-attachments/assets/9bce59eb-94cd-43b6-a248-03531205bc12)
 
+# รูปวงจร
+![image](https://github.com/user-attachments/assets/dd3ca666-6535-4813-bffb-6143665261ba)
+
+
+
