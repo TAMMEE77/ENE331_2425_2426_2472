@@ -11,5 +11,9 @@
 # รูปวงจร
 ![image](https://github.com/user-attachments/assets/dd3ca666-6535-4813-bffb-6143665261ba)
 
+# รูป LED
+![image](https://github.com/user-attachments/assets/789fe435-42d8-4c0e-859d-8d6ebb946d2f)
+
+
 
 
